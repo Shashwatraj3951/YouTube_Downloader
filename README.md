@@ -27,7 +27,7 @@ If not download python from  https://www.python.org/downloads/
 Directions for downloading Video from :-
 
 1. Open your cmd in windows and terminal in linux or debian based any OS.
-2. Paste this command  pip install time pytube
+2. Paste this command :- pip install time pytube pyfiglet
 3. Wait for complete installation.
 4. Double click on the Youtube_Downloader file to run
 5. Paste your YouTube Video url.
