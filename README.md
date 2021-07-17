@@ -35,6 +35,13 @@ Directions for downloading Video from :-
 7. Press Enter and wait for progress bar to fill upto 100%.
 8. Enjoy your Video.
 
+                      OR,
+                      
+Getting bored from this setup,
+Just download the exe file and double click on it.
+Enjoy with your downloader.
+But it only works in Windows.
+
 For any issues Insert your issues in issue tab.
 
 
